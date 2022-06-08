@@ -1,3 +1,4 @@
 first text file
 adding a new line
 one more liune of code
+checking for commit of selected file
